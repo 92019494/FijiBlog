@@ -10,7 +10,7 @@ Website should:
 - contain functionality to view and add posts. The website should also have authentication implemented as only 
   authenticated users can create posts.
   
-<img align="left" src="images/home1.png" width="1000" height="500">
+<img align="left" src="images/home1.png" width="1000" height="550">
 <img align="left" src="images/home2.png" width="300" height="600">
 <img align="left" src="images/newpost.png" width="300" height="600">
 <img align="left" src="images/profile.png" width="300" height="600">
