@@ -1,6 +1,9 @@
 # FijiBlog
 
 This was a website I made while studying
+To run the django use the following command in the projects root directory .. then type the url in the terminal in a browser
+source myenv/bin/activate
+
 
 Specific Project Requirements:
 Website should:
