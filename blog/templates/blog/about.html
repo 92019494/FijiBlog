@@ -1,5 +1,14 @@
 {% extends "blog/base.html" %}
+{% load static %}
 {% block content %}
     <h1>About Us</h1>
-    <p>We are a blog based web app that lets people share their experiences, tips and reccommendations from their time in Fiji.</p>
+    <p id="aboutText">Fiji is an amazing place with beautiful colourful landscapes throughout the country.
+        It also has many villages that allow tourists to fully immerse themselves in the culture. Fiji
+        is a place that should be visited by people at least once in their lifetime. We think Fiji is
+        such a great country and that's why we created this blog based web app that lets people share
+        their experiences, tips and reccommendations from their time in Fiji. We aim to spread the word
+        about all Fiji has to offer. We allow anyone and everyone all around the world to post their
+        experiences on our blog. </p>
+    <img id="aboutImage" src="{% static 'images/fiji.jpg' %}" width="100%" height="auto" alt="A picture of a hammock and the sea in the background" >
+
 {%  endblock content %}
