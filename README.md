@@ -3,7 +3,7 @@
 This is a blog style web app made with the django framework 
 
 To run the web app use the following commands one after another in the projects root directory ..
-then type the url in the shown in the terminal in a browser
+then type the url shown in the terminal in a browser
 
 "source myenv/bin/activate" then..
 "python manage.py runserver"
