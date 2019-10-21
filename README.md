@@ -1,6 +1,6 @@
 # FijiBlog
 
-This is a web app made with the django framework
+This is a blog style web app made with the django framework 
 
 To run the web app use the following commands one after another in the projects root directory ..
 then type the url in the shown in the terminal in a browser
