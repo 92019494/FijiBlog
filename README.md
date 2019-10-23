@@ -9,6 +9,7 @@ then type the url shown in the terminal in a browser
 "source myenv/bin/activate" then..
 "python manage.py runserver"
 
+Note: Due to the permissions on the school computers i was unable to find a way to use djangos built in server to run the downloaded project on a windows machine 
 
 Specific Project Requirements:
 Website should:
