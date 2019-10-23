@@ -6,6 +6,9 @@ To run the web app on a mac:
 use the following commands in the terminal one after another in the projects root directory ..
 then type the url shown in the terminal in a browser
 
+"source myenv/bin/activate" then..
+"python manage.py runserver"
+
 
 Specific Project Requirements:
 Website should:
