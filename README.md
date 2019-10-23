@@ -9,7 +9,11 @@ then type the url shown in the terminal in a browser
 "source myenv/bin/activate" then..
 "python manage.py runserver"
 
-Note: Due to the permissions on the school computers i was unable to find a way to use djangos built in server to run the downloaded project on a windows machine 
+Note: Due to the permissions on the school computers i was unable to find a way to use djangos built in server to run the downloaded project on a windows machine. However i will give some suggested steps below.
+
+Step 1: Open command prompt and navigate to where you want to store a virtual environment
+Step 2: Make sure you have both pip and python installed
+Step 3: Create a virtual environment - this website will show you how https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/ 
 
 Specific Project Requirements:
 Website should:
