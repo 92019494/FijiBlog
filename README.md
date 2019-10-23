@@ -2,7 +2,7 @@
 
 This is a blog style web app made with the django framework 
 
-To run the web app use the following commands one after another in the projects root directory ..
+To run the web app use the following commands in the terminal one after another in the projects root directory ..
 then type the url shown in the terminal in a browser
 
 "source myenv/bin/activate" then..
