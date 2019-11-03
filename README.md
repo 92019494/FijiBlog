@@ -2,12 +2,17 @@
 
 This is a blog style web app made with the django framework 
 
-To run the web app use the following commands one after another in the projects root directory ..
+To run the web app on a mac:
+use the following commands in the terminal one after another in the projects root directory ..
 then type the url shown in the terminal in a browser
 
 "source myenv/bin/activate" then..
 "python manage.py runserver"
 
+Note: Due to the permissions on the school computers i was unable to find a way to use djangos built in server to run the downloaded project on a windows machine. However i will give some suggested steps below
+
+When i find a solution i will update this file.
+Note: As i'm aware, only django and django-crispy-forms libraries are installed in the project
 
 Specific Project Requirements:
 Website should:
