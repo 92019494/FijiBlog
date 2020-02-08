@@ -10,7 +10,7 @@ then type the url shown in the terminal in a browser
 "python manage.py runserver"
 
 Note: The virtual environment in this repository only works on mac. If you intend to run this project on windows
-you will have to set up your own virtual environment with django installed.
+you will have to set up your own virtual environment.
 
 Note: As i'm aware, only django and django-crispy-forms libraries are installed in the project 
 
