@@ -9,7 +9,8 @@ then type the url shown in the terminal in a browser
 "source myenv/bin/activate" then..
 "python manage.py runserver"
 
-Note: Due to the permissions on the school computers i was unable to find a way to use djangos built in server to run the downloaded project on a windows machine. 
+Note: The virtual environment in this repository only works on mac. If you intend to run this project on windows
+you will have to set up your own virtual environment with django installed.
 
 Note: As i'm aware, only django and django-crispy-forms libraries are installed in the project 
 
